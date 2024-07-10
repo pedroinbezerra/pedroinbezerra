@@ -16,7 +16,7 @@ Would you like to meet me? Call me on Whatsapp by clicking here 👉
 const pedro = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "cars", "games"],
+    askMeAbout: ["web dev", "backend dev", "tech", "app dev", "cars", "games"],
     technologies: {
         backEnd: {
             js: ["Node", "NestJS"],
