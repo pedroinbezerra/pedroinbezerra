@@ -2,13 +2,13 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-[![Linkedin: Linkedin](https://img.shields.io/badge/-pbezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroinbezerra/)](https://www.linkedin.com/in/pedroinbezerra/)
-[![Whatsapp: Whatsapp](https://img.shields.io/badge/-pbezerra-128C7E?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585986701595)](https://api.whatsapp.com/send?phone=5585986701595)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroinbezerra/)](https://www.linkedin.com/in/pedroinbezerra/)
+[![Whatsapp: Whatsapp](https://img.shields.io/badge/-Whatsapp-128C7E?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585986701595)](https://api.whatsapp.com/send?phone=5585986701595)
 ### 📫 Like to meet me?
 
 
 Would you like to meet me? Call me on Whatsapp by clicking here 👉
-[![Whatsapp: pbezerra](https://img.shields.io/badge/-pbezerra-128C7E?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585986701595)](https://api.whatsapp.com/send?phone=5585986701595)
+[![Whatsapp: Whatsapp](https://img.shields.io/badge/-Whatsapp-128C7E?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585986701595)](https://api.whatsapp.com/send?phone=5585986701595)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
