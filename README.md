@@ -13,7 +13,7 @@ Would you like to meet me? Call me on Whatsapp by clicking here 👉
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const pedro = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "cars", "games"],
