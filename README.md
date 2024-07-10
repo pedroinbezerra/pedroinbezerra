@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-[![Linkedin: pbezerra](https://img.shields.io/badge/-pbezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroinbezerra/)](https://www.linkedin.com/in/pedroinbezerra/)
-[![Whatsapp: pbezerra](https://img.shields.io/badge/-pbezerra-128C7E?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585986701595)](https://api.whatsapp.com/send?phone=5585986701595)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-pbezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroinbezerra/)](https://www.linkedin.com/in/pedroinbezerra/)
+[![Whatsapp: Whatsapp](https://img.shields.io/badge/-pbezerra-128C7E?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585986701595)](https://api.whatsapp.com/send?phone=5585986701595)
 ### 📫 Like to meet me?
 
 
