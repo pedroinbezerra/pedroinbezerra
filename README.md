@@ -34,7 +34,7 @@ const pedro = {
         misc: ["Firebase", "Meteor", "Java", "NextJS", "PHP", "Blaze", "Blade"]
     },
     architecture: ["Monolithic", "Microservices", "Progressive web applications", "Single page applications"],
-    currentFocus: "Improve my English, master Java, Go, and Python",
+    currentFocus: "Improve my English, Java, Go, and Python proficiency",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
