@@ -25,6 +25,9 @@
   <a href="https://medium.com/@pedroigormt2214">
     <img src="https://img.shields.io/badge/Medium-@pedroigormt2214-000000?style=flat-square&logo=medium&logoColor=white" />
   </a>
+  <a href="https://wa.me/5585986701595">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
