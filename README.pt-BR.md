@@ -19,11 +19,6 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">🇺🇸 English</a> ·
-  <a href="./README.pt-BR.md">🇧🇷 Português</a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/pedroinbezerra/">
     <img src="https://img.shields.io/badge/LinkedIn-pedroinbezerra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
